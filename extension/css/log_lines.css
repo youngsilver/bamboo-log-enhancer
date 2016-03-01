@@ -1,0 +1,22 @@
+.build {
+    color: blue;
+}
+
+.command {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+.simple {
+    color: black;
+}
+
+.log {
+    white-space: pre-wrap;
+    font-family: monospace;
+    word-wrap: break-word;
+    display: block;
+}
