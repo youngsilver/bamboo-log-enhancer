@@ -11,7 +11,7 @@ Simple Chrome extension that will add color to your Atlassian Bamboo log files, 
 1. Clone this repo: `git clone https://github.com/samueldg/bamboo-log-enhancer.git`;
 2. Open Chrome and go to your extensions: `chrome://extensions`;
 3. Make sure *Developer mode* is enabled;
-4. Click *Load unpacked extension...* and select `bamboo-log-enhancer/extensions`.
+4. Click *Load unpacked extension...* and select `bamboo-log-enhancer/extension`.
 
 ## Contribution
 
