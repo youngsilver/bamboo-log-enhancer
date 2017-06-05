@@ -1,5 +1,7 @@
 # Bamboo Log Enhancer
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hokokhlkakimconkkofafoklkefhnnpe.svg)]() [![Chrome Web Store](https://img.shields.io/chrome-web-store/d/hokokhlkakimconkkofafoklkefhnnpe.svg)]()
+
 Simple Chrome extension that will add color to your Atlassian Bamboo log files, in order to distinguish `build`, `command`, `error`, and `simple` output.
 
 ## Preview
