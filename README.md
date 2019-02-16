@@ -19,6 +19,8 @@ Simply install the extension from the [Chrome Web Store](https://chrome.google.c
 3. Make sure *Developer mode* is enabled;
 4. Click *Load unpacked extension...* and select `bamboo-log-enhancer/extension`.
 
+One way to find test examples is to look for public logs on Google: https://google.com/search?q=inurl%3Adownload+inurl%3Abuild_logs
+
 ## Contribution
 
 This project is still early stage, feel free to create a pull request and contribute!
