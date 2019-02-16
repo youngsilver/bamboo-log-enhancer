@@ -2,7 +2,7 @@
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hokokhlkakimconkkofafoklkefhnnpe.svg)](https://chrome.google.com/webstore/detail/bamboo-log-enhancer/hokokhlkakimconkkofafoklkefhnnpe) [![Chrome Web Store](https://img.shields.io/chrome-web-store/d/hokokhlkakimconkkofafoklkefhnnpe.svg)](https://chrome.google.com/webstore/detail/bamboo-log-enhancer/hokokhlkakimconkkofafoklkefhnnpe)
 
-Simple Chrome extension that will add color to your Atlassian Bamboo log files, in order to distinguish `build`, `command`, `error`, and `simple` output.
+Simple Chrome extension and Firefox add-on that will add color to your Atlassian Bamboo log files, in order to distinguish `build`, `command`, `error`, and `simple` output.
 
 ## Preview
 
@@ -10,7 +10,7 @@ Simple Chrome extension that will add color to your Atlassian Bamboo log files, 
 
 ## Installation
 
-Simply install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/bamboo-log-enhancer/hokokhlkakimconkkofafoklkefhnnpe).
+Simply install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/bamboo-log-enhancer/hokokhlkakimconkkofafoklkefhnnpe) or [Firefox add-on](https://addons.mozilla.org/firefox/addon/bamboo-log-enhancer/).
 
 ## Development
 
